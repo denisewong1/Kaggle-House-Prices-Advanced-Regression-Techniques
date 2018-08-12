@@ -1,7 +1,7 @@
-To Do List
+To Do List  
 1.
 
-Questions
+Questions  
 1. What is the confidence interval for SalePrice using simple log linear model on continuous variables?
 2. What features have the greatest contribution to sale price?  What features are negative for sale price?
 3. Within each variable, what is the incremental effect from one level to next highest level?
