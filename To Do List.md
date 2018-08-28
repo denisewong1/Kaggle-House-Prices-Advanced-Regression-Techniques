@@ -10,7 +10,6 @@ Questions
 
 
 Notes on Linear Regression
-https://www.r-bloggers.com/visualization-in-regression-analysis/
 http://rstudio-pubs-static.s3.amazonaws.com/283862_e2988eb531a649b29831f6486e2e3622.html
 https://stats.stackexchange.com/questions/89747/how-to-describe-or-visualize-a-multiple-linear-regression-model
 https://cran.r-project.org/web/packages/jtools/vignettes/summ.html
