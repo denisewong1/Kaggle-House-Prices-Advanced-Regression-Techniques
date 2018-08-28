@@ -1,12 +1,18 @@
 To Do List  
-1.
+1. dendogram - hclust function
+2. refactor exterior1/2, bsmtfintype1/2, condition1/2, proximity1/2
+3. assume in exploratory analysis that we haven't seen the test set
 
 Questions  
-1. What is the confidence interval for SalePrice using simple log linear model on continuous variables?
-2. What features have the greatest contribution to sale price?  What features are negative for sale price?
-3. Within each variable, what is the incremental effect from one level to next highest level?
-4. What is the impact of seasonality on price?
-5. What method should be used to strip out suburb location from price?
-6. How to treat factor variables?
-7. Can I strip out words from the headers to assess the most important features in determining sale price? eg bathroom, sqft, kitchen, etc
+1. Within each variable, what is the incremental effect from one level to next highest level?
+2. What is the impact of seasonality on price?
+3. What method should be used to strip out suburb location from price?
 
+
+Notes on Linear Regression
+https://www.r-bloggers.com/visualization-in-regression-analysis/
+http://rstudio-pubs-static.s3.amazonaws.com/283862_e2988eb531a649b29831f6486e2e3622.html
+https://stats.stackexchange.com/questions/89747/how-to-describe-or-visualize-a-multiple-linear-regression-model
+https://cran.r-project.org/web/packages/jtools/vignettes/summ.html
+https://www.r-statistics.com/2010/07/visualization-of-regression-coefficients-in-r/
+https://www.andrew.cmu.edu/user/achoulde/94842/lectures/lecture09/lecture09-94842.html
