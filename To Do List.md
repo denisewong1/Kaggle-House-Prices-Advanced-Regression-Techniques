@@ -2,6 +2,7 @@ To Do List
 1. dendogram - hclust function
 2. refactor exterior1/2, bsmtfintype1/2, condition1/2, proximity1/2
 3. assume in exploratory analysis that we haven't seen the test set
+4. coursera course 7 week 3
 
 Questions  
 1. Within each variable, what is the incremental effect from one level to next highest level?
